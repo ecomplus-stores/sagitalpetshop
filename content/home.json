@@ -93,6 +93,10 @@
       "page": 1,
       "sort": "sales",
       "title": "Mais Vendidos"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-instagran-1.png"
     }
   ]
 }
