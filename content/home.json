@@ -83,7 +83,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales"
+      "sort": "sales",
+      "title": "Mais Vendidos"
     },
     {
       "type": "page-title",
