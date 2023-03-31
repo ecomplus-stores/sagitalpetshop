@@ -1,7 +1,7 @@
 {
   "domain": "sagitalpetshop.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#f8e2d5",
+  "primary_color": "#ff0011",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#ff0011",
+  "secondary_color": "#f8e2d5",
   "icon": "/img/uploads/logo.jpg",
   "store_id": 51347,
   "description": "sagitalpetshop",
