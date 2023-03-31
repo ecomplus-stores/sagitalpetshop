@@ -84,6 +84,10 @@
       "limit": 12,
       "page": 1,
       "sort": "sales"
+    },
+    {
+      "type": "page-title",
+      "title": "Principais Marcas"
     }
   ]
 }
