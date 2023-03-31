@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Sagital Pet Shop",
+    "text": "Missão Nossa missão é proporcionar aos nossos clientes um local seguro para compras pela internet, oferecendo produtos de qualidade com agilidade na entrega.  Visão Proporcionar felicidade e satisfação para todos os nossos clientes e ser reconhecida como referência no mercado pet.  Valores Responsabilidade, ética, amor, dedicação, melhor atendimento, qualidade e gratidão. "
   },
   "links_1": {
     "list_pages": true,
@@ -24,6 +24,12 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/googlesafebrowsing.png"
+    },
+    {
+      "src": "/img/uploads/transp-preto.png"
     }
   ],
   "payment_methods": {
