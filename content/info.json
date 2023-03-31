@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete Seguro - Veja as formas de envio"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Loja Segura - Fique tranquilo"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "(21)9 7137-2970 Atendimento via WhatsApp"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
