@@ -17,8 +17,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 8,
+    "featured": [
+      "/cachorro/?Cachorro",
+      "/decoracao/?Decoração",
+      "/gato/?Gato",
+      "/maes-de-pet/?Mães de Pet",
+      "/outros-pets/?Outros Pets"
+    ],
+    "random": 0,
     "full_width": true
   },
   "desktop_megamenu": true,
