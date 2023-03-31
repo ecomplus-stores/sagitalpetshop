@@ -30,7 +30,8 @@
     },
     {
       "src": "/img/uploads/transp-preto.png"
-    }
+    },
+    {}
   ],
   "payment_methods": {
     "pix": true,
