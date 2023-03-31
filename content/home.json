@@ -103,18 +103,12 @@
       "img": "/img/uploads/banner-instagran-1.png"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/novidades62.png"
         },
         {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/nova-promocao4.png"
         }
       ]
