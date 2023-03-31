@@ -1,5 +1,5 @@
 {
-  "css": ".product-card section {\n  border: 2px solid #ccc;\n  padding: 10px\n}\n.info-bar {\n    background: #fff;\n    color: #f01,\n}",
+  "css": ".product-card section {\n  border: 2px solid #ccc;\n  padding: 10px\n}\n.info-bar {\n    background: #fff;\n    color: #f01000,\n}",
   "html_head": "",
   "html_body": ""
 }
