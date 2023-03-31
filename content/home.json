@@ -39,6 +39,28 @@
       "enabled": true
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/desconto3.png"
+        },
+        {
+          "img": "/img/uploads/desconto2.png"
+        },
+        {
+          "img": "/img/uploads/desconto1.png"
+        },
+        {
+          "img": "/img/uploads/brinquedos-para-passaros1.png"
+        }
+      ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -49,9 +71,19 @@
       "page": 1
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "63c82cc14834634f733b457f:categories:Caminha Gato:/caminha-gato/",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales"
     }
   ]
 }
