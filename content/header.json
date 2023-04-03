@@ -2,8 +2,8 @@
   "marketing_stripe": {
     "text": "10% OFF com o Cupom \"desconto10\"",
     "link": "",
-    "background": "#000000",
-    "color": "#f8e2d5"
+    "background": "#f8e2d5",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
