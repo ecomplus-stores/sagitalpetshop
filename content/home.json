@@ -56,15 +56,6 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Principais Marcas"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/confira-nossas-ofertas.png"
     },
@@ -97,6 +88,15 @@
       "page": 1,
       "sort": "sales",
       "title": "Mais Vendidos"
+    },
+    {
+      "type": "page-title",
+      "title": "Principais Marcas"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
       "type": "responsive-banner",
