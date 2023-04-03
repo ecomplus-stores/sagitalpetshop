@@ -90,6 +90,10 @@
       "title": "Mais Vendidos"
     },
     {
+      "type": "page-title",
+      "title": "Principais Marcas"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0
