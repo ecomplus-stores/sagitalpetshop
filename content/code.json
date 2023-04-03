@@ -1,5 +1,5 @@
 {
-  "css": ".product-card section {\n  border: 2px solid #ccc;\n  padding: 10px\n}\n.info-bar {\nbackground: #FFFFFF;\ncolor: #FF0000\n}\n.rounded-icon .i-credit-card::before {\n  background-image: url(/img/uploads/cadeador.png);\n  background-size: 100% 100%;\n  width: 30px;\n  height: 30px;\n  display: inline-block;\n  content: ''\n}\n.rounded-icon .i-exchange::before {\n  background-image: url(/img/uploads/phone2.png);\n  background-size: 100% 100%;\n  width: 30px;\n  height: 30px;\n  display: inline-block;\n  content: ''\n}",
+  "css": ".product-card section {\n  border: 2px solid #ccc;\n  padding: 10px\n}\n.info-bar {\nbackground: #FFFFFF;\ncolor: #FF0000\n}\n.rounded-icon .i-credit-card::before {\n  background-image: url(/img/uploads/cadeador.png);\n  background-size: 100% 100%;\n  width: 30px;\n  height: 30px;\n  display: inline-block;\n  content: ''\n}\n.rounded-icon .i-exchange::before {\n  background-image: url(/img/uploads/phone4.png);\n  background-size: 100% 100%;\n  width: 30px;\n  height: 30px;\n  display: inline-block;\n  content: ''\n}",
   "html_head": "",
   "html_body": ""
 }
