@@ -101,17 +101,6 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-instagran-1.png"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/novidades62.png"
-        },
-        {
-          "img": "/img/uploads/nova-promocao4.png"
-        }
-      ]
     }
   ]
 }
