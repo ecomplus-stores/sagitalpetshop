@@ -91,7 +91,8 @@
     },
     {
       "type": "page-title",
-      "title": "Principais Marcas"
+      "title": "",
+      "description": "Principais Marcas"
     },
     {
       "type": "brands-carousel",
