@@ -70,14 +70,6 @@
       "page": 1
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": null,
-      "sort": "news"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-bolsa-personalizada2-1-.png"
     },
@@ -86,13 +78,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
-      "title": "Mais Vendidos"
+      "collection_id": null,
+      "sort": "news"
     },
     {
-      "type": "page-title",
-      "title": "",
-      "description": "Principais Marcas"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Mais Vendidos"
     },
     {
       "type": "brands-carousel",
