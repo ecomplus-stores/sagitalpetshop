@@ -2,5 +2,15 @@
   "title": "Contato",
   "meta_title": "Contato",
   "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "### Lorem ipsum dolor sit amet",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSdWh2YhKy3bxxdjtFro1e5b-Pfdj-OSgK70vUN1VII9CVSo5A/viewform?embedded=true\" width=\"640\" height=\"1057\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Carregando…</iframe>"
+    }
+  ]
 }
