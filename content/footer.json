@@ -26,7 +26,8 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/googlesafebrowsing.png"
+      "src": "/img/uploads/googlesafebrowsing.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.sagital.com.br"
     },
     {
       "src": "/img/uploads/transp-preto.png"
