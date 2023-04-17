@@ -2,5 +2,11 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<!--StartFragment-->\n\nAceitamos os seguintes cartões de crédito:  Visa, MasterCard, American Express, Elo, Hiper, Diners, Aura, Mais, Boleto bancário e Cartões de débito. O pagamento pode ser efetuado através de cartão de crédito, débito via PayPal, PagSeguro e Mercado pago, boleto bancário.\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
