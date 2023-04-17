@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "10% OFF com o Cupom \"desconto10\"",
-    "link": "",
+    "text": "Produtos com 15% de desconto, clique aqui!",
+    "link": "/promocoes",
     "background": "#f8e2d5",
     "color": "#000000"
   },
@@ -33,5 +33,6 @@
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": false
+  "full_width_submenu": false,
+  "centralized_logo": true
 }
