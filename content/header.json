@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Produtos com 15% de desconto, clique aqui!",
-    "link": "/promocoes",
+    "link": "",
     "background": "#f8e2d5",
     "color": "#000000"
   },
@@ -34,5 +34,5 @@
   "search_input": true,
   "alphabetical_order_submenu": true,
   "full_width_submenu": false,
-  "centralized_logo": true
+  "centralized_logo": false
 }
