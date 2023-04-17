@@ -2,5 +2,11 @@
   "title": "Dúvidas frequentes",
   "meta_title": "Dúvidas frequentes",
   "meta_description": "Dúvidas frequentes",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Além de ser um suporte para o atendimento, a página de dúvidas frequentes, pode ser encarada como uma ótima solução para a empresa apresentar os termos e condições de venda dos seus produtos ou serviços. Assim, desde o primeiro contato com a marca, o usuário já pode saber como funcionam, por exemplo, as políticas de devolução, troca, entrega, entre outros.\n\nComo eu calculo o frete para a minha compra?\\\nPara saber qual será o valor do frete, basta escolher os produtos que deseja comprar, e em seguida, adicionar todos eles no carrinho (clicando na opção “Adicionar ao carrinho”). É importante que você adicione no carrinho todos os produtos que deseja, pois o frete é calculado não só a partir do CEP, mas também a partir dos produtos (quantidade, peso e medidas de cada um). Depois de incluir os produtos, insira seu CEP no campo indicado e, logo em seguida, o valor do frete e o prazo de entrega serão calculados e informados na tela.\\\n\\\nComo efetuo um pedido no Sagital Pet Shop ?\n\nÉ muito fácil. Primeiro é necessário fazer um cadastro em nossa loja inserindo todos os seus dados pessoais (nome, endereço, e-mail, telefone). Depois você pesquisa os produtos que deseja para o seu amiguinho, em cada produto escolhido você clica na opção \"Adicionar ao carrinho\" e pronto. Olha só que legal, no carrinho de compras você já fica sabendo qual o prazo para entrega, digitando apenas o CEP da sua região!\\\n \\\nComo faço para alterar meu e-mail cadastrado?\n\nNão é possível alterar o e-mail cadastrado. No entanto, você pode efetuar um novo cadastro com um e-mail diferente.\n\n\\\nComo efetuar alterações cadastrais?\\\n\\\nVocê conseguirá alterar seus dados cadastrais quando for efetuar um novo pedido. Na mesma tela você também consegue alterar o endereço de entrega. Recomendamos sempre conferir os dados de entrega (endereço, referência, etc), para não termos falhas no momento da entrega.",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
