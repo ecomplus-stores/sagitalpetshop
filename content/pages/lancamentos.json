@@ -1,0 +1,11 @@
+{
+  "title": "Lançamentos",
+  "sections": [
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    }
+  ],
+  "body": "N﻿ovidades da Loja!"
+}
