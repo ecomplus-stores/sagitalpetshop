@@ -2,5 +2,11 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "\n\nSomos uma loja virtual, especializada em produtos de qualidade para o seu pet. Sabemos o quanto os animais de estimação são importantes, pois oferecem a seus donos companhia, amizade, conforto, alegria e muito amor. E os clientes contam com o entendimento desta estreita relação que existe entre eles e seu melhor amigo. O Justo cuida bem dos seus animais. (PV12;10)",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
