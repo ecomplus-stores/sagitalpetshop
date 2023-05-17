@@ -79,7 +79,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": null,
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
