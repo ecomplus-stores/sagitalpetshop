@@ -63,7 +63,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
-      "sort": "news",
+      "sort": "offers",
       "title": "Ofertas",
       "headless": false,
       "limit": 12,
