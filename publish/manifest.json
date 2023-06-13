@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.2951ba42f6255c2991d248ba0db4bb30.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.85e917b45b64e45e98b22a1b887cbb60.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.e9aea46043b3dfaa87be644a9bcf5d69.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.38dce552da5d8d495994de605a6ef231.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.8c474f4fe6be35c745c808ccdf512432.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Sagital Pet Shop ",
+  "short_name": "sagitalpetshop",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "sagitalpetshop",
+  "background_color": "#ffffff",
+  "theme_color": "#ff0011"
+}
