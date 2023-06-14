@@ -97,13 +97,13 @@
         "type": 301
       },
       {
-        "regex": "/grids*",
+        "regex": "/grid*",
         "destination": "/search",
         "type": 301
       },
       {
         "regex": "/busca?b=*",
-        "destination": "/search?term=*",
+        "destination": "/search",
         "type": 301
       }    
     ],
