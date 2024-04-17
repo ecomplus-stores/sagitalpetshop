@@ -70,10 +70,6 @@
       "page": 1
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-bolsa-personalizada2-1-.png"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
